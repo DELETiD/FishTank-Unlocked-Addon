@@ -13,3 +13,5 @@ Chrome extension for improving [Fishtank Live](https://www.fishtank.live).
 
 
  Made by: @DELETiD (https://twitter.com/DELETiD)
+ 
+ ![](https://github.com/DELETiD/FishTank-Unlocked-Addon/blob/main/HowToInstall.gif)
