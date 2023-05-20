@@ -12,4 +12,4 @@ Chrome extension for improving [Fishtank Live](https://www.fishtank.live).
  * Click the **[LOAD UNPACKED](https://developer.chrome.com/static/images/get_started/load_extension.png)** button and select the extension directory.  (Can also drag and drop extension folder into Chrome/Brave)
 
 
- 
+ Made by: @DELETiD (https://twitter.com/DELETiD)
